@@ -1,0 +1,9 @@
+.admin_table {
+    width: 400px;
+}
+
+.assignBtn{
+    margin-top: 10px !important;
+    margin-right: 10px !important;
+    float:right;
+}

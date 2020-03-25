@@ -1,0 +1,19 @@
+.loginContainer {
+    min-width: 320px;
+    max-width: 400px;
+    height: auto;
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.loginBtn {
+    float: right;
+}
+
+.logo {
+    text-align: center;
+    margin-top:20px;
+}
